@@ -1,0 +1,34 @@
+#ee{
+    text-align: center;
+}
+.left{
+    height: 200px;
+    border: 3px sold red;
+    overflow: auto;
+}
+.left img{
+    float: right;
+    height: 400px;
+    width: 450px;
+}
+.div1{
+    float: left bottom;
+    padding: 80px;
+    border: 4px solid rgb(240, 102, 132);
+}
+.div1 img{
+    float: right;
+  
+}
+.div2{
+    padding: 100px;
+    border: 4px solid rgb(201, 35, 71);
+}
+.div2 img{
+    float: right;
+    height: 200px;
+    width: 150px;
+}
+h1{
+    color:rgb(240, 102, 132);
+}
